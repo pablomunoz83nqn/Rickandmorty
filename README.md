@@ -18,8 +18,6 @@
 
 - [Quick start](#quick-start)
 - [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
 - [Creators](#creators)
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
@@ -46,17 +44,12 @@ This is a normal flutter app. You should follow the instructions in the [officia
 
 
 
-
-
-
-
 ## Creators
 
 **Pablo Muñoz**
 
 - <https://github.com/pablomunoz83>
 
-<a href='https://ko-fi.com/S6S5LMVR' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Thanks
 
