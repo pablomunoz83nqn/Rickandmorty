@@ -1,0 +1,1 @@
+Métodos que integran el http provider para hacer peticiones post, get y retornar un modelo de negocio.

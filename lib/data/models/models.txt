@@ -1,0 +1,1 @@
+todos los modelos de negocio y serialización
